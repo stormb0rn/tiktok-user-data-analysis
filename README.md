@@ -1,6 +1,6 @@
-# TikTok User Scraper
+# TikTok User Data Analysis
 
-一个高效的 TikTok 用户数据爬取工具，使用 TikHub API 批量获取用户资料信息。
+一个高效的 TikTok 用户数据分析工具，使用 TikHub API 批量获取和分析用户资料信息。
 
 ## 📊 项目特点
 
