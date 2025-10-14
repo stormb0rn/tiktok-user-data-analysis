@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# 日志文件
+*.log
+logs/
+!logs/.gitkeep
+
+# 数据文件（包含隐私）
+data/
+!data/.gitkeep
+
+# 输出文件（包含用户数据）
+output/
+!output/.gitkeep
+
+# 配置文件（包含敏感信息）
+config.py
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.bak
+*.old
+
+# 清理脚本（可能包含敏感信息）
+cleanup_sensitive_data.sh
+
+# Archive（旧版本，不需要上传）
+archive/
+
+# 其他
+Nova
+Nova01
+Nova02
